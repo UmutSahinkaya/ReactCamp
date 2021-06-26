@@ -1,3 +1,4 @@
+import './App.css';
 import logo from './logo.svg';
 import Dashboard from './layouts/Dashboard';
 import 'semantic-ui-css/semantic.min.css'
